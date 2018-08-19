@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "sonar-json-custom-rules-plugin",
+                "projectName": "sonar-json-custom-rules-plugin",
+                "workingDirectory": "c:\\source\\SonarQubePlugin",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "sonar-json-custom-rules-plugin",
+                "projectName": "sonar-json-custom-rules-plugin",
+                "workingDirectory": "c:\\source\\SonarQubePlugin",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
